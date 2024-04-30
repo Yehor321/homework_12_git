@@ -7,5 +7,8 @@
 * елемент 4
 * елемент 5
 
-==Виділений текст==
-~~Закреслений текст~~ 
+**жирний**  *курсив*
+
+![alt](https://bit.ly/33B4VxM "shih-tzu")
+
+<a href="https://google.com.ua" target="_blank" title="Google">Google</a>
